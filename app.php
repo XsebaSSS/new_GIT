@@ -1,3 +1,3 @@
 <?php 
-echo "hola mundo"
+echo "aprendiendo git graph"
 ?>

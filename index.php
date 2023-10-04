@@ -1,3 +1,3 @@
 <?php
-echo "hello wor"
+echo "hello world working with Visual.S.c"
 ?>
